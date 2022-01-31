@@ -1,0 +1,14 @@
+{
+    "name": "mongodb-express-rest-api",
+    "version": "1.0.0",
+    "description": "Sample project for the article on MongoDB and Express.js web REST API tutorial",
+    "keywords": [
+        "mongodb",
+        "node",
+        "express",
+        "atlas",
+        "react"
+    ],
+    "author": "Manan",
+    "license": "ISC"
+}
